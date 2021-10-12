@@ -23,7 +23,7 @@ Exemplo 1 - Imagem comparativa das diferentes profundidades [Videomaker, Youtube
 __________________________________________
 Exemplo 2 - Imagem comparativa entre 16 e 8 bits [ReaConverter](https://www.reaconverter.com/features/image-editing/color-depth.html)
 
-![gif](https://user-images.githubusercontent.com/72624424/137007350-de4f6219-08de-4dc5-b840-e6cabc2c973a.gif)
+![image](https://i.gifer.com/M92t.gif)
 __________________________________________
 Exemplo 2 - Imagem comparativa entre 16 e 8 bits [ReaConverter](https://www.reaconverter.com/features/image-editing/color-depth.html)
 
