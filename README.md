@@ -23,7 +23,6 @@ Exemplo 1 - Imagem comparativa das diferentes profundidades [Videomaker, Youtube
 __________________________________________
 Exemplo 2 - Imagem comparativa entre 16 e 8 bits [ReaConverter](https://www.reaconverter.com/features/image-editing/color-depth.html)
 
-![image](https://i.gifer.com/M92t.gif)
+https://www.youtube.com/watch?v=6yXYxp0UiVg
 __________________________________________
-Exemplo 2 - Imagem comparativa entre 16 e 8 bits [ReaConverter](https://www.reaconverter.com/features/image-editing/color-depth.html)
-
+Exemplo 3 - Link para vídeo no Youtube [What is Bit Depth? - Bit Depth explained]  
