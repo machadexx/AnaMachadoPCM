@@ -1,7 +1,7 @@
 # Caderno Digital
 Conjunto de registos no âmbito da Unidade Curricular de Produção de Conteúdos Multimédia do curso de TIWM @ IPMAIA. 21/22
 
-##BitMaps
+## BitMaps
 Existe uma linguagem de programação cujos programas são bitmaps! Fazem lembrar arte abstrata e chama-se Piet.
 
 ![Piet_Program_Hello_World](https://user-images.githubusercontent.com/72624424/137020286-8aaf18ff-1f7e-4f92-a321-c494fae86aad.gif)
