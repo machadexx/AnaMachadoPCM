@@ -42,9 +42,11 @@ Este estudo não tem como objetivo melhorar ou embelezar as imagens mas sim comp
 ![original](https://user-images.githubusercontent.com/72624424/137165224-2edce594-0be0-4d6f-aa4c-618d5b50e218.jpg)
 __________________________________________
 Imagem 1 - Original
+
 ![18 https___www_inaturalist_org_photos_2307838 580x360](https://user-images.githubusercontent.com/72624424/137164997-31a42466-4add-40c8-af94-8e32ee41173b.png) 
 __________________________________________
 Imagem 2 - Após edição
+
 ![edicao](https://cdn.discordapp.com/attachments/491195512490426370/897862838016675840/unknown.png)
 __________________________________________
 Imagem 3 - Camadas aplicadas
