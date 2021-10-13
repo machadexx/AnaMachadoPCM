@@ -35,4 +35,13 @@ https://www.youtube.com/watch?v=6yXYxp0UiVg - What is Bit Depth? - Bit Depth exp
 __________________________________________
 Exemplo 3 - Link para vídeo no Youtube [Videomaker](https://www.youtube.com/channel/UCsRd7WVROeTytsoKddoYVFg)
 
+## Correção de Imagem 
+Estudo realizado por mim de algumas ferramentas de ajustes de imagens no software Photoshop CS6. As imagens originais foram extraídas de [Encyclopedia Of Life](https://eol.org)
+
+![original](https://user-images.githubusercontent.com/72624424/137165224-2edce594-0be0-4d6f-aa4c-618d5b50e218.jpg) | ![18 https___www_inaturalist_org_photos_2307838 580x360](https://user-images.githubusercontent.com/72624424/137164997-31a42466-4add-40c8-af94-8e32ee41173b.png) 
+__________________________________________
+
+
+
+
 
