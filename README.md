@@ -36,12 +36,12 @@ __________________________________________
 Exemplo 3 - Link para vídeo no Youtube [Videomaker](https://www.youtube.com/channel/UCsRd7WVROeTytsoKddoYVFg)
 
 ## Correção de Imagem 
-Estudo realizado por mim de algumas ferramentas de ajustes de imagens no software Photoshop CS6. As imagens originais foram extraídas de [Encyclopedia Of Life](https://eol.org)
+Estudo realizado por mim de algumas ferramentas de ajustes de imagens no software Photoshop CS6. As imagens originais foram extraídas de [Encyclopedia Of Life](https://eol.org) e de [Unsplash](https://unsplash.com).
 Este estudo não tem como objetivo melhorar ou embelezar as imagens mas sim compreender algumas ferramentas lecionadas em aulas.
 
 ![original](https://user-images.githubusercontent.com/72624424/137165224-2edce594-0be0-4d6f-aa4c-618d5b50e218.jpg)
 __________________________________________
-Imagem 1 - Original
+Imagem 1 - Original 1
 
 ![18 https___www_inaturalist_org_photos_2307838 580x360](https://user-images.githubusercontent.com/72624424/137164997-31a42466-4add-40c8-af94-8e32ee41173b.png) 
 __________________________________________
@@ -50,5 +50,26 @@ Imagem 2 - Após edição
 ![edicao](https://cdn.discordapp.com/attachments/491195512490426370/897862838016675840/unknown.png)
 __________________________________________
 Imagem 3 - Camadas aplicadas
+
+![18 https___www_inaturalist_org_photos_4178315](https://user-images.githubusercontent.com/72624424/138124166-dbfebeb0-3d1f-48b6-85a1-b28bc9af0371.jpg)
+__________________________________________
+Imagem 4 - Original 2
+
+![18 https___www_inaturalist_org_photos_4178315](https://user-images.githubusercontent.com/72624424/138124085-00b82fb8-fff3-4e36-8898-4dca0329ef06.png)
+__________________________________________
+Imagem 5 - Após edição
+
+![beau-runsten-mR-N67XjTHg-unsplash](https://user-images.githubusercontent.com/72624424/138124334-00c6da26-9a6a-4528-b090-d76eed665fb3.jpg)
+__________________________________________
+Imagem 6 - Original 3
+
+![beau-runsten-mR-N67XjTHg-unsplash](https://user-images.githubusercontent.com/72624424/138124545-a2687a4c-c688-424d-b818-1db828d6f7b0.png)
+__________________________________________
+Imagem 7 - Após edição
+
+![image](https://user-images.githubusercontent.com/72624424/138124474-b8284a0e-547e-44df-b939-a65e65197444.png)
+__________________________________________
+Imagem 8 - Camadas aplicadas
+
 
 
