@@ -71,5 +71,10 @@ Imagem 7 - Após edição
 __________________________________________
 Imagem 8 - Camadas aplicadas
 
+##Creative Commons Licences
+As licenças Creative Commons (CC) são licenças públicas que determinam o que é possível fazer com um determinado artigo. A imagem que se segue mostra estas permissões em forma de tabela.
 
+![image](https://user-images.githubusercontent.com/72624424/138600158-a8bfcec7-6ecb-447a-97f2-525c24eeb480.png)
+__________________________________________
+Imagem 1 - Licenças Creative Commons, imagem retirada de [Wagningen University & Research](https://www.wur.nl/en/article/What-are-Creative-Commons-licenses.htm)
 
