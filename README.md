@@ -78,3 +78,26 @@ As licenças Creative Commons (CC) são licenças públicas que determinam o que
 __________________________________________
 Imagem 1 - Licenças Creative Commons, imagem retirada de [Wagningen University & Research](https://www.wur.nl/en/article/What-are-Creative-Commons-licenses.htm)
 
+## Manipulação de imagem no Lightroom
+Algumas edições de modo livre com o objetivo de experimentar e compreender algumas das potencialidades do software Lightroom. As imagens originais foram retiradas de [Unsplash](https://unsplash.com).
+
+![milo-weiler-nv-F9az9rVU-unsplash](https://user-images.githubusercontent.com/72624424/139111495-c35dca41-7875-4d84-a680-b60e82a0cdb8.jpg)
+__________________________________________
+Imagem 1 - Original 1
+
+![milo-weiler-nv-F9az9rVU-unsplash](https://user-images.githubusercontent.com/72624424/139111583-e5a934b8-9923-411b-87c2-91f332c1c73b.jpg)
+__________________________________________
+Imagem 2 - Após edição 
+
+![somesh-dev-q4Czm8d_rUc-unsplash](https://user-images.githubusercontent.com/72624424/139111828-d4710359-853a-485b-924b-6041a8ea6837.jpg)
+__________________________________________
+Imagem 3 - Original 2
+
+![somesh-dev-q4Czm8d_rUc-unsplash](https://user-images.githubusercontent.com/72624424/139111846-ee853148-c144-452e-91ad-3a62990b975a.jpg)
+__________________________________________
+Imagem 4 - Após edição
+
+
+
+
+
