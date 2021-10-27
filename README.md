@@ -93,7 +93,7 @@ Imagem 2 - Após edição
 __________________________________________
 Imagem 3 - Original 2
 
-![somesh-dev-q4Czm8d_rUc-unsplash](https://user-images.githubusercontent.com/72624424/139111846-ee853148-c144-452e-91ad-3a62990b975a.jpg | width=100)
+![somesh-dev-q4Czm8d_rUc-unsplash](https://user-images.githubusercontent.com/72624424/139111846-ee853148-c144-452e-91ad-3a62990b975a.jpg)
 __________________________________________
 Imagem 4 - Após edição
 
