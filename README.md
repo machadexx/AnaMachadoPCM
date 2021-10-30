@@ -97,7 +97,4 @@ Imagem 3 - Original 2
 __________________________________________
 Imagem 4 - Após edição
 
-
-
-
-
+O algoritmo da ferramenta de "blur" - https://youtu.be/4Eh0y3LHTNU , de Inside Code
