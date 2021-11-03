@@ -1,6 +1,6 @@
 # Caderno Digital
 Conjunto de registos no âmbito da Unidade Curricular de Produção de Conteúdos Multimédia do curso de TIWM @ IPMAIA. 21/22
-
+As imagens aqui inseridas encontram-se apenas com 8 bits por canal ou em formatos comprimidos para conseguir fazer upload para a plataforma.
 ## BitMaps
 Existe uma linguagem de programação cujos programas são bitmaps! Fazem lembrar arte abstrata e chama-se Piet.
 
