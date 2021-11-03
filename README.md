@@ -102,3 +102,10 @@ O algoritmo da ferramenta de "blur" - https://youtu.be/4Eh0y3LHTNU , de Inside C
 ## Smart Object VS "Dumb" Object
 Uma distinção entre um objeto "inteligente" e um objeto comum é quanto ao tipo da edição na mesma. Quando se trata de um Smart Object a edição não é destrutiva,isto é, não provoca alterações irreparáveis à fotografia enquanto que nos "Dumb" Objects a manipulação de imagem passa a ser destrutiva.
 
+![object](https://user-images.githubusercontent.com/72624424/140090722-4db1183f-bb10-4402-8a58-e7267b6f782a.png)
+__________________________________________
+Imagem 1 - Estudo de Smart Object
+
+![image](https://user-images.githubusercontent.com/72624424/140091044-d1e52a5d-4c54-404d-a6e2-4f5782ce004b.png)
+__________________________________________
+Imagem 2 - Camadas aplicadas
