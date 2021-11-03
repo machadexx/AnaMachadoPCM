@@ -109,3 +109,11 @@ Imagem 1 - Estudo de Smart Object
 ![image](https://user-images.githubusercontent.com/72624424/140091044-d1e52a5d-4c54-404d-a6e2-4f5782ce004b.png)
 __________________________________________
 Imagem 2 - Camadas aplicadas
+
+![img2](https://user-images.githubusercontent.com/72624424/140098234-20d44436-2291-4a13-9e9f-f33aa225b689.jpg)
+__________________________________________
+Imagem 3 - Estudo de Smart Object
+
+![image](https://user-images.githubusercontent.com/72624424/140098326-e44f67ae-293e-42a3-9c02-eb5ec2242fee.png)
+__________________________________________
+Imagem 4 - Camadas aplicadas
