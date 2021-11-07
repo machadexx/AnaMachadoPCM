@@ -21,6 +21,8 @@ Exemplo 1 - Imagem médica retirada de [Diário a Bordo de Oficina Multimédia](
 __________________________________________
 Exemplo 2 - Imagem retirada de [Greeceintech](https://greeceintech.wordpress.com/2014/11/14/compressao-de-imagens/)
 
+Curiosidade : Como funciona o algoritmo de compressão de Huffman? - Huffman Coding - Greedy Algorithm, de [CSBreakdown](https://www.youtube.com/watch?v=dM6us854Jk0)
+
 ## Profundidade de bits
 
 ![image](https://user-images.githubusercontent.com/72624424/137006641-a093ee33-f1d0-40e2-b2fc-6b5493b465b6.png)
