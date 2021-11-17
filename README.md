@@ -99,7 +99,7 @@ Imagem 3 - Original 2
 __________________________________________
 Imagem 4 - Após edição
 
-O algoritmo da ferramenta de "blur" - https://youtu.be/4Eh0y3LHTNU , de Inside Code
+O algoritmo da ferramenta de "blur" - https://youtu.be/4Eh0y3LHTNU , de [Inside Code](https://www.youtube.com/c/Insidecode)
 
 ## Smart Object VS "Dumb" Object
 Uma distinção entre um objeto "inteligente" e um objeto comum é quanto ao tipo da edição na mesma. Quando se trata de um Smart Object a edição não é destrutiva,isto é, não provoca alterações irreparáveis à fotografia enquanto que nos "Dumb" Objects a manipulação de imagem passa a ser destrutiva.
@@ -119,3 +119,68 @@ Imagem 3 - Estudo de Smart Object
 ![image](https://user-images.githubusercontent.com/72624424/140098326-e44f67ae-293e-42a3-9c02-eb5ec2242fee.png)
 __________________________________________
 Imagem 4 - Camadas aplicadas
+
+## Curiosidade
+É possível "esconder" informação através de imagens! O estudo que se dedica a esta matéria chama-se Esteganografia. 
+A forma mais comum utiliza a técnica do LSB (Least Significant Bit). Estas "trocas" de bits permitem guardar códigos ASCII (por exemplo) que se traduzem em mensagens! 
+Para saber mais consultar [Esteganografia](https://pt.wikipedia.org/wiki/Esteganografia) .
+
+![image](https://user-images.githubusercontent.com/72624424/142263983-f43b9fbe-b935-40c6-9cdf-5d06f318c2cb.png)
+__________________________________________
+Imagem 1 - Teoria da Esteganografia.
+Via [ResearchGate](https://www.researchgate.net/figure/An-illustration-of-the-main-concept-of-steganography_fig1_335809231)
+
+![image](https://user-images.githubusercontent.com/72624424/142264266-759b2845-4755-4ac5-abcd-eb8d7192bf28.png)
+__________________________________________
+Imagem 2 - Exemplo de Esteganografia.
+Via [TechSpotify](https://techspotify.com/what-is-digital-steganography-what-are-its-uses/)
+
+## Fontes (Tipos de Letra)
+O tipo de letra é uma característica essêncial em diversos aspetos na natureza dos conteúdos multimédia. Estes podem conferir ao conteúdo um "tom" de diversos tipos bem como uma formalidade de vários níveis. Alguns exemplos de sítios Web de onde é possível extrair fontes de modo gratuito são os seguintes:
+
+| Nome | Site |
+| ------------- | ------------- |
+| Google Fonts  | https://fonts.google.com  |
+| DaFont  | https://www.dafont.com/pt/  |
+| 1001Fonts  | https://www.1001fonts.com  |
+| Fonts  | https://www.fonts.com  |
+
+## Elaboração do Projeto "Feira De Emprego"
+Este espaço destina-se aos updates do projeto da elaboração de um cartaz com a temática de uma "Feira De Emprego".
+Para a elaboração destas colagens retirei conteúdo do site [Unsplash](https://unsplash.com).
+
+Em primeiro lugar, comecei por procurar imagens alusivas ao tema. Gostei das seguintes.
+
+![image](https://user-images.githubusercontent.com/72624424/142267514-7c5e552c-c0c7-49ad-af92-fd160e8bfd32.png)
+_________________________________________
+Imagem 1 - [URL Imagem](https://unsplash.com/photos/Im_cQ6hQo10)
+
+![image](https://user-images.githubusercontent.com/72624424/142267757-34b0e4fc-3737-4cba-836b-4d4b70a4cd2c.png)
+_________________________________________
+Imagem 2 - [URL Imagem](https://unsplash.com/photos/mCj7UinqOYQ)
+
+![image](https://user-images.githubusercontent.com/72624424/142267812-aaee2ba4-a16f-4dad-81d8-7c88640c66b9.png)
+_________________________________________
+Imagem 3 - [URL Imagem](https://unsplash.com/photos/QckxruozjRg)
+
+![image](https://user-images.githubusercontent.com/72624424/142267883-86aa158f-a4bf-4356-9716-f6b86e6b2cff.png)
+_________________________________________
+Imagem 4 - [URL Imagem](https://unsplash.com/photos/g1Kr4Ozfoac)
+
+![image](https://user-images.githubusercontent.com/72624424/142267989-bcdccc49-0a57-4453-b5c9-ca82184e21ab.png)
+_________________________________________
+Imagem 5 - [URL Imagem](https://unsplash.com/photos/Fa9b57hffnM)
+
+![image](https://user-images.githubusercontent.com/72624424/142268062-326d6fba-4e7e-4cb3-a777-daa1c5e28cbd.png)
+_________________________________________
+Imagem 5 - [URL Imagem](https://unsplash.com/photos/qCi_MzVODoU)
+
+De seguida, pensei em que formato conseguiria tornar o cartaz mais apelativo.
+
+![image](https://user-images.githubusercontent.com/72624424/142268280-240c953d-f04c-4658-a232-6119339955dc.png)
+_________________________________________
+Imagem 1 - Ideia 1
+
+
+
+
