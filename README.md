@@ -181,6 +181,36 @@ De seguida, pensei em que formato conseguiria tornar o cartaz mais apelativo.
 _________________________________________
 Imagem 1 - Ideia 1
 
+![image](https://user-images.githubusercontent.com/72624424/143257435-da37c63c-0eef-4abd-9afc-ba6138a3adf2.png)
+_________________________________________
+Imagem 1 - Ideia 2
+
+## Estudo dos Tipos de Letra
+Sendo um aspeto a ter em conta durante a elaboração de um conteúdo multimédia, foram considerados diversos tipos de letra diferentes.
+
+![image](https://user-images.githubusercontent.com/72624424/143260692-3900480c-57d0-41c3-9473-f44f8e15d4b4.png)
+_________________________________________
+Imagem 1 - Bebas Neue
+
+![image](https://user-images.githubusercontent.com/72624424/143261033-4fb4868e-fd55-4457-ad1f-c85faa43b5d3.png)
+_________________________________________
+Imagem 2 - Outfit
+
+![image](https://user-images.githubusercontent.com/72624424/143261234-6587dd8d-3f24-4970-b6f3-d68a93e73330.png)
+_________________________________________
+Imagem 3 - Unica One
+
+![image](https://user-images.githubusercontent.com/72624424/143261355-dcd8454c-f20e-4574-b32b-5e97a39d9191.png)
+_________________________________________
+Imagem 4 - Poiret One
+
+![image](https://user-images.githubusercontent.com/72624424/143261866-cf065c1b-a20e-4437-8256-39665aa07887.png)
+_________________________________________
+Imagem 5 - Squada One
+
+
+
+
 
 
 
