@@ -175,6 +175,14 @@ Imagem 5 - [URL Imagem](https://unsplash.com/photos/Fa9b57hffnM)
 _________________________________________
 Imagem 5 - [URL Imagem](https://unsplash.com/photos/qCi_MzVODoU)
 
+![photo-1507679799987-c73779587ccf](https://user-images.githubusercontent.com/72624424/144224875-bb1608d7-8822-45df-9d20-cc917bd34934.png)
+_________________________________________
+Imagem 5 - [URL Imagem](https://unsplash.com/photos/MYbhN8KaaEc)
+
+![photo-1521737852567-6949f3f9f2b5](https://user-images.githubusercontent.com/72624424/144224981-392842f3-d636-44c6-8caf-0b4511d7ccc4.jpeg)
+_________________________________________
+Imagem 5 - [URL Imagem](https://unsplash.com/photos/sggw4-qDD54)
+
 De seguida, pensei em que formato conseguiria tornar o cartaz mais apelativo.
 
 ![image](https://user-images.githubusercontent.com/72624424/142268280-240c953d-f04c-4658-a232-6119339955dc.png)
