@@ -226,6 +226,28 @@ Imagem 5 - Squada One
 
 ## Instagram 
 Na rede social das fotografias, tenho vindo a publicar alguns trabalhos da minha autoria. Meramente por hobby no meu [perfil](https://www.instagram.com/machado_v2.0/)
+Obtive todas as imagens lá partilhadas com o meu smartphone Xiaomi Redmi Note 7 com a aplicação Google Cam. A maioria das fotos não têm muita edição, apenas toques suaves e algumas correções de cor. Contudo, algumas estão mais trabalhadas através de aplicações como o Lightroom mobile e o Snapseed. Nenhuma das fotos é "montagem".
+
+Algumas das fotografias: 
+
+![image](https://user-images.githubusercontent.com/72624424/148598022-bbcdc9c0-4707-44e1-ac59-48327ff44d9f.png)
+_________________________________________
+Imagem 1 - Cocas
+
+![image](https://user-images.githubusercontent.com/72624424/148598129-6ac732b3-3921-4e6f-b01b-292653c0eaee.png)
+_________________________________________
+Imagem 2 - FC3 , FCUP
+
+![image](https://user-images.githubusercontent.com/72624424/148598198-6576d60f-7167-4aa7-a088-7c7c556226af.png)
+_________________________________________
+Imagem 3 - Cocas 2
+
+![image](https://user-images.githubusercontent.com/72624424/148598257-c0a915bd-7a29-410c-a4bf-dad9d1f3505d.png)
+_________________________________________
+Imagem 4 - Cartas
+
+
+
 
 
 
